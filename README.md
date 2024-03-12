@@ -2,6 +2,7 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <br/>
 ###About Me
+<br/>
 👨🏽‍💻 A passionate Full Stack Developer Developer.<br> 🎓I'm a 3rd year CSE student at BIET Jhansi<br>🎨 Exploring Cross Platform Web Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
 
