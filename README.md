@@ -3,7 +3,7 @@
 <br/>
 ###About Me
 <br/>
-👨🏽‍💻 A passionate Full Stack Developer Developer.<br> 🎓I'm a 3rd year CSE student at BIET Jhansi<br>🎨 Exploring Cross Platform Web Development<br>🌱 Currently learning Data Structures and Algorithms<br>
+👨🏽‍💻 A passionate Full Stack Developer.<br> 🎓I'm a 3rd year CSE student at BIET Jhansi<br>🎨 Exploring Cross Platform Web Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
 
 <h3 align='center'><i> Social Media Handles</i></h3>
